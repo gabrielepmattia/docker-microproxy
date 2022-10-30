@@ -35,4 +35,4 @@ COPY auth.txt .
 
 EXPOSE 3128
 
-CMD ["./microproxy", "-v"]
+CMD ["./microproxy"]
